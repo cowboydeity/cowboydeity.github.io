@@ -5,118 +5,115 @@ body { font-family: 'Libre Baskerville', Baskerville, serif; }
 h1, h2, h3, h4 { font-family: 'Libre Baskerville', Baskerville, serif; }
 </style>
 
-# Alexandra Ash | Harvard Resume (Baskerville Format)
+# Harvard-Style Resume Template (Baskerville Font)
 
-Welcome to the elegant **Harvard-style resume** template, powered by Markdown and inspired by classic design principles. This page demonstrates the style using the credentials of Alexandra Ash, Biology major and aspiring scientist.
-
----
-
-## 📋 Features
-
-- **Harvard-style** layout: Sectioned, readable, with classic academic spacing.
-- Set in **Baskerville** (via Libre Baskerville for web), evoking scholarly elegance.
-- Clean Markdown – easily customizable for any discipline.
-- Responsive headings, easy navigation.
+This repository presents a professional Markdown template for academic and industry CVs, modeled on the Harvard format and set in elegant Baskerville. Below, the credentials of Alexandra Ash are provided as an example of formatting, organization, and clarity suitable for advanced research and professional applications.
 
 ---
 
-## ⏳ Resume Preview
+## Template Features
 
-Below is a *live preview* of the resume, formatted as you would see it generated from this template.
+- Harvard-style sectioning, emphasizing clarity, precision, and readability
+- Default font: Baskerville via Libre Baskerville
+- Modular Markdown structure for rapid editing and flexible content organization
+- Suitable for direct GitHub profile use, PDF exports (with matching Baskerville font), or HTML rendering
 
 ---
+
+## Sample Resume: Alexandra Ash
 
 <div align="center">
 <h2><strong>Alexandra Ash</strong></h2>
-<p>Laredo, TX | (956) 285-0270 | ashalexandra03@gmail.com</p>
+<p>Laredo, TX &nbsp;|&nbsp; (956) 285-0270 &nbsp;|&nbsp; ashalexandra03@gmail.com</p>
 </div>
 
 ---
 
-### 📚 Education
+### Education
 
 **Texas A&M International University (TAMIU), Laredo, TX**  
-*Bachelor of Science in Biology* — *Expected May 2025*  
-Relevant Coursework: Principles of Biology I–III, Ecology, Evolution, Intro to Genetics, GIS, Cell Biology, Infectious Diseases, Polymers in Nature, Environmental Monitoring, General Chemistry I & II, Organic Chemistry I & II, General Physics I & II, Precalculus, Introductory Statistics.  
-**Awards:** Dean’s List, Spring 2023  
+*Bachelor of Science in Biology* (Expected May 2025)  
+Relevant Coursework: Principles of Biology I–III, Ecology, Evolution, Intro to Genetics, GIS, Cell Biology, Infectious Diseases, Polymers in Nature, Environmental Monitoring, General Chemistry I & II, Organic Chemistry I & II, General Physics I & II, Precalculus, Introductory Statistics  
+**Honors:** Dean’s List (Spring 2023)  
 **GPA:** 3.69
 
 **Laredo College, Laredo, TX**  
-*Dual Enrollment* — *Jan. 2022*  
-**Awards:** Dean’s List  
+*Dual Enrollment* (January 2022)  
+**Honors:** Dean’s List  
 **GPA:** 3.818
 
 ---
 
-### 💼 Work & Internship Experience
+### Professional Experience
 
 **Graduate Teaching Assistant**  
-*Texas A&M University, College Station, TX* — Aug. 2025–Present  
-- Teach three introductory BIOL 111 laboratory sections (9 hrs/week).
-- Host weekly office hours; develop lectures for lab protocols/theory.
+*Texas A&M University, College Station, TX* (August 2025–Present)  
+- Instruction of three introductory Biology laboratory sections (BIOL 111), including laboratory protocol and theoretical lectures  
+- Facilitation of weekly office hours for individualized student support  
 
-**Undergraduate Research Assistant – Remote Sensing of White-tailed Deer Urban Habitats**  
-*Texas A&M International University, Laredo, TX* — Nov. 2024–May 2025  
-- Ecology lab work, remote sensing via ArcGIS Pro, biodiversity conservation analysis in urban parks.
+**Undergraduate Research Assistant, Remote Sensing of White-tailed Deer Urban Habitats**  
+*Texas A&M International University, Laredo, TX* (November 2024–May 2025)  
+- Ecological research employing ArcGIS Pro and satellite imagery to assess land cover and vegetation impacts on urban deer populations  
+- Analysis of human-wildlife interactions within park ecosystems; recommendation of conservation practices for biodiversity protection  
 
 **Science Influencer Program, Science Communicator**  
-*Texas A&M University, College Station, TX* — Jan. 2024–Dec. 2024  
-- Created agricultural journalism infographics/podcasts, recruited STEM students, presented bioremediation research.
+*Texas A&M University, College Station, TX* (January 2024–December 2024)  
+- Developed scientific communication materials (infographics, podcasts, social media content) focused on fungal pathogen research and agriculture  
+- Recruited STEM students via oral presentations; presented original bioremediation research    
 
-**Research Intern, Interface of Plant, Microbial and Bioenvironmental Sciences (IPMB) REEU**  
-*Texas A&M University, College Station, TX* — May 2024–Aug. 2024  
-- Full-time plant pathology lab, 16s rRNA PCR, gel electrophoresis, media preparation, scientific presentations.
+**Research Intern, Interface of Plant, Microbial, and Bioenvironmental Sciences (IPMB) REEU**  
+*Texas A&M University, College Station, TX* (May 2024–August 2024)  
+- Full-time participant in plant pathology laboratory; performed experimental design, molecular biology techniques (16s rRNA PCR, gel electrophoresis), microbial culture preparation, instrument operation  
+- Led research project on Sargassum bioremediation for promotion of anti-Fov4 bacterial growth; disseminated results at symposia  
 
 **Sales Associate**  
-*Shop 195, Laredo, TX* — May 2022–Oct. 2022  
-- Retail customer service for Nomination Italy & Pandora, inventory, packaging.
+*Shop 195, Laredo, TX* (May 2022–October 2022)  
+- Delivered customer service for boutique retail brands (Nomination Italy, Pandora), managed transactions, orders, inventory, and product presentation  
 
 ---
 
-### 🖼️ Presentations
+### Conference Presentations
 
-**Annual Texas Chapter of the Wildlife Society, Feb. 19–21, 2025**  
-- *Pedraza, K.; Adame, I.; Ash, A.; Sundararaj, V.*  
-  “Habitat Choice and Behavior of White-Tailed Deer in Urban Park Ecosystems”  
-  Poster presentation, Denton, TX.
-
----
-
-### 🌱 Extracurriculars
-
-- **TRiO STEM, Active Member**
-  - Job/internship resources for first-generation STEM students. *Aug. 2023–Present*
+**Annual Texas Chapter of the Wildlife Society**  
+Denton, TX, February 19–21, 2025  
+*Pedraza, K.; Adame, I.; Ash, A.; Sundararaj, V.*  
+Poster: "Habitat Choice and Behavior of White-Tailed Deer in Urban Park Ecosystems"
 
 ---
 
-### 🧪 Skills
+### Extracurricular Activities
 
-- PCR / gel electrophoresis, cell culturing, 3D bioprinting, DNA extraction, microscopy, streak plating.
-- Experienced with SEM, NanoDrop, centrifuge, autoclave.
-- Advanced proficiency in ArcGIS Pro & handheld GPS units.
-
----
-
-## ✨ Usage
-
-1. **Clone this repo**  
-2. Edit `README.md` to insert your own education, work, and skills.
-3. See fonts in GitHub web preview; for PDF exports, use Baskerville in your typesetting tool.
+**TRiO STEM, Active Member**  
+Laredo, TX (August 2023–Present)  
+- Engagement with resources for first-generation STEM students, including research and internship opportunities  
 
 ---
 
-## 💎 Harvard Resume Principles
+### Technical Skills
 
-> _Balance, clarity, and gravitas are core to Harvard-style resumes.  
-> This template brings polish and depth to your professional story._
+- Polymerase Chain Reaction (PCR), gel electrophoresis, cell culturing, DNA extraction, microscopy, streak plating
+- Instrumentation: Scanning Electron Microscope (SEM), NanoDrop spectrophotometry, centrifuge, autoclave
+- Proficient in ArcGIS Pro software and handheld GPS data collection
+
+---
+
+## Instructions for Use
+
+1. **Fork or clone this repository.**
+2. Edit the `README.md` file with your own information, maintaining Harvard-style structure and emphasis on clarity.
+3. For PDF generation, use Baskerville/Libre Baskerville in your Markdown-to-PDF or LaTeX toolchain.
 
 ---
 
-**Questions or feedback?**  
-Contact: [ashalexandra03@gmail.com](mailto:ashalexandra03@gmail.com)
+## Harvard Resume Principles
+
+Clarity, gravitas, and structured presentation are the foundation of the Harvard-format CV. This template supports advanced professional and academic ambitions, facilitating communication of qualifications and accomplishments to the highest standard.
 
 ---
+
+For template suggestions or formatting inquiries, please contact Alexandra Ash at  
+[ashalexandra03@gmail.com](mailto:ashalexandra03@gmail.com)
 
 <div align="center">
-<sub><i>Template crafted with ❤️ by Alexandra Ash | Baskerville font via Google Fonts</i></sub>
+<sub><i>Harvard-style academic resume template | Baskerville font via Google Fonts</i></sub>
 </div>
