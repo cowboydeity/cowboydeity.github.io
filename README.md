@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
@@ -201,4 +200,4 @@
         <li>Led research project on Sargassum bioremediation for promotion of anti-Fov4 bacterial growth; disseminated results at symposia</li>
       </ul>
       <div class="role">Sales Associate</div>
-      <div class="subtitle">Shop 195, Laredo
+      <div class="subtitle">Shop 195, Lared
