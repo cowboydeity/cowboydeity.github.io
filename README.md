@@ -5,8 +5,6 @@ body { font-family: 'Libre Baskerville', Baskerville, serif; }
 h1, h2, h3, h4 { font-family: 'Libre Baskerville', Baskerville, serif; }
 </style>
 
-## Sample Resume: Alexandra Ash
-
 <div align="center">
 <h2><strong>Alexandra Ash</strong></h2>
 <p>Laredo, TX &nbsp;|&nbsp; (956) 285-0270 &nbsp;|&nbsp; ashalexandra03@gmail.com</p>
@@ -79,26 +77,3 @@ Laredo, TX (August 2023–Present)
 - Polymerase Chain Reaction (PCR), gel electrophoresis, cell culturing, DNA extraction, microscopy, streak plating
 - Instrumentation: Scanning Electron Microscope (SEM), NanoDrop spectrophotometry, centrifuge, autoclave
 - Proficient in ArcGIS Pro software and handheld GPS data collection
-
----
-
-## Instructions for Use
-
-1. **Fork or clone this repository.**
-2. Edit the `README.md` file with your own information, maintaining Harvard-style structure and emphasis on clarity.
-3. For PDF generation, use Baskerville/Libre Baskerville in your Markdown-to-PDF or LaTeX toolchain.
-
----
-
-## Harvard Resume Principles
-
-Clarity, gravitas, and structured presentation are the foundation of the Harvard-format CV. This template supports advanced professional and academic ambitions, facilitating communication of qualifications and accomplishments to the highest standard.
-
----
-
-For template suggestions or formatting inquiries, please contact Alexandra Ash at  
-[ashalexandra03@gmail.com](mailto:ashalexandra03@gmail.com)
-
-<div align="center">
-<sub><i>Harvard-style academic resume template | Baskerville font via Google Fonts</i></sub>
-</div>
