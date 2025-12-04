@@ -5,21 +5,6 @@ body { font-family: 'Libre Baskerville', Baskerville, serif; }
 h1, h2, h3, h4 { font-family: 'Libre Baskerville', Baskerville, serif; }
 </style>
 
-# Harvard-Style Resume Template (Baskerville Font)
-
-This repository presents a professional Markdown template for academic and industry CVs, modeled on the Harvard format and set in elegant Baskerville. Below, the credentials of Alexandra Ash are provided as an example of formatting, organization, and clarity suitable for advanced research and professional applications.
-
----
-
-## Template Features
-
-- Harvard-style sectioning, emphasizing clarity, precision, and readability
-- Default font: Baskerville via Libre Baskerville
-- Modular Markdown structure for rapid editing and flexible content organization
-- Suitable for direct GitHub profile use, PDF exports (with matching Baskerville font), or HTML rendering
-
----
-
 ## Sample Resume: Alexandra Ash
 
 <div align="center">
